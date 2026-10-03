@@ -45,7 +45,3 @@ sessions, password hashing, protected routes, and logout.
 
 Username: admin
 Password: admin123
-
-## Hosted Application
-
-[PUT YOUR HOSTED LINK HERE]
